@@ -1,3 +1,5 @@
+package se.magnus.api.core.product;
+
 public class Product { 
 	private final int productId; 
 	private final String name; 
